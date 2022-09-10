@@ -8,8 +8,7 @@
  * Return: 0
  */
 int main(void)
-{
-        	char c;
+{	        char c;
 		int i;
 		long li;
 		long long lli;
