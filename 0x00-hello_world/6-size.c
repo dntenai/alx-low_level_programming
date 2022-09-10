@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-		char c;
+        	char c;
 		int i;
 		long li;
 		long long lli;
@@ -21,5 +21,4 @@ int main(void)
 		printf("Size of a long long int: %ld byte(s)\n", sizeof(lli));
 		printf("Size of a float: %ld byte(s)\n", sizeof(f));
 		return (0);
-
 }
